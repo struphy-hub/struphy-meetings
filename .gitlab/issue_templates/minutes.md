@@ -3,6 +3,7 @@
 
 - [ ] Date:
 - [ ] Time:
+- [ ] Location:
 - [ ] Duration:
 - [ ] Attendees:
 
