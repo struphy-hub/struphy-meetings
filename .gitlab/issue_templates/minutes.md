@@ -1,14 +1,14 @@
 **Header**
 
 
-- Date:
-- Time:
-- Duration:
-- Attendees:
+- [ ] Date:
+- [ ] Time:
+- [ ] Duration:
+- [ ] Attendees:
 
 **Agenda**
 
-...
+- [ ] item 1
 
 **Discussion**
 
@@ -28,7 +28,7 @@
 
 **Footer**
 
-Minutes:
-Next minutes:
-Next meeting:
+- [ ] Minutes:
+- [ ] Next minutes:
+- [ ] Next meeting:
 
