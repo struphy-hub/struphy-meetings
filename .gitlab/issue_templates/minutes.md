@@ -1,9 +1,10 @@
 **Header**
 
-Date:
-Time:
-Duration:
-Attendees:
+
+- Date:
+- Time:
+- Duration:
+- Attendees:
 
 **Agenda**
 
@@ -24,3 +25,10 @@ Attendees:
 **Next steps**
 
 ...
+
+**Footer**
+
+Minutes:
+Next minutes:
+Next meeting:
+
