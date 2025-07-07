@@ -7,3 +7,5 @@
 - Link to MatrixChat: https://matrixchat.mpg.de/#/room/!wqjcJpsUvAbTPOUXen:mpg.de
 - **Meeting minutes are stored under [issues](https://gitlab.mpcdf.mpg.de/struphy/struphy-meetings/-/issues)**
 - Please add to the agenda in the minutes in case you have a topic of interest
+
+The meetings and minutes are public and will be distributed also via the [Struphy mailing list](https://listserv.gwdg.de/mailman/listinfo/struphy).
