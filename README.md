@@ -6,3 +6,4 @@
 - Integrate with calendar: https://datashare.mpcdf.mpg.de/index.php/apps/calendar/p/51CZQZYY0KGHW3XV/Book-small-seminar-room
 - Link to MatrixChat: https://matrixchat.mpg.de/#/room/!wqjcJpsUvAbTPOUXen:mpg.de
 - **Meeting minutes are stored under [issues](https://gitlab.mpcdf.mpg.de/struphy/struphy-meetings/-/issues)**
+- Please add to the agenda in the minutes in case you have a topic of interest
