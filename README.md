@@ -2,7 +2,7 @@
 
 - Struphy meetings are **bi-weekly on Mondays at 2 p.m. Berlin time**
 - Location: IPP Garching, building D2, 2nd floor, L7 seminar room 201
-- Integrate with calendar: https://datashare.mpcdf.mpg.de/index.php/apps/calendar/p/51CZQZYY0KGHW3XV/Book-small-seminar-room
 - Zoom: https://eu02web.zoom-x.de/j/4629451403?pwd=W22DW7H9PJFuiUfOFDPzOmgbjaY69b.1 (Meeting-ID: 462 945 1403, Passcode: 697421) 
+- Integrate with calendar: https://datashare.mpcdf.mpg.de/index.php/apps/calendar/p/51CZQZYY0KGHW3XV/Book-small-seminar-room
 - Link to MatrixChat: https://matrixchat.mpg.de/#/room/!wqjcJpsUvAbTPOUXen:mpg.de
 - **Meeting minutes are stored under [issues](https://gitlab.mpcdf.mpg.de/struphy/struphy-meetings/-/issues)**
