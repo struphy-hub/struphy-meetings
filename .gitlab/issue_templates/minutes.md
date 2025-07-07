@@ -2,8 +2,8 @@
 
 
 - [ ] Date:
-- [ ] Time:
-- [ ] Location:
+- [ ] Time: 2 p.m.
+- [ ] Location: L7 seminar room + Zoom
 - [ ] Duration:
 - [ ] Attendees:
 
