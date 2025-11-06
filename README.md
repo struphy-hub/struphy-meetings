@@ -1,11 +1,9 @@
-# struphy-meetings
+# Join Struphy developer meetings!
 
-- Struphy meetings are **bi-weekly on Mondays at 2 p.m. Berlin time**
-- Location: IPP Garching, building D2, 2nd floor, L7 seminar room 201
-- Zoom: link will be created 1 day before meeting and sent via the mailing list
-- Integrate with calendar: https://datashare.mpcdf.mpg.de/index.php/apps/calendar/p/51CZQZYY0KGHW3XV/Book-small-seminar-room
-- Link to MatrixChat: https://matrixchat.mpg.de/#/room/!wqjcJpsUvAbTPOUXen:mpg.de
-- **Meeting minutes are stored under [issues](https://gitlab.mpcdf.mpg.de/struphy/struphy-meetings/-/issues)**
-- Please add to the agenda in the minutes in case you have a topic of interest
+Struphy developer meetings happen on the **first Monday of each month** at **2 p.m. Berlin time**.
 
-The meetings and minutes are public and will be distributed also via the [Struphy mailing list](https://listserv.gwdg.de/mailman/listinfo/struphy).
+The **Zoom link** for the meeting will be published here 1-2 days before the meeting, and also sent out via the [Struphy mailing list](https://listserv.gwdg.de/mailman/listinfo/struphy). For developers on-site at the IPP Garching, we meet in the building D2, 2nd floor, L7 seminar room 201.
+
+* [Meeting minutes and agenda](https://github.com/struphy-hub/struphy-meetings/issues)
+* [Calendar](https://datashare.mpcdf.mpg.de/index.php/apps/calendar/p/51CZQZYY0KGHW3XV/Book-small-seminar-room)
+* [MatrixChat](https://matrixchat.mpg.de/#/room/!wqjcJpsUvAbTPOUXen:mpg.de)
